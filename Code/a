@@ -1,0 +1,1000 @@
+ 1040  ./compile.sh
+ 1041  ./game
+ 1042  ./compile.sh
+ 1043  ./game
+ 1044  ./compile.sh
+ 1045  ./game
+ 1046  ./compile.sh
+ 1047  ./game
+ 1048  ./compile.sh
+ 1049  ./game
+ 1050  ./compile.sh
+ 1051  ./game
+ 1052  [A
+ 1053  ./game
+ 1054  ./compile.sh
+ 1055  ./game
+ 1056  ./compile.sh
+ 1057  ./game
+ 1058  ./compile.sh
+ 1059  cd ..
+ 1060  ./game 
+ 1061  vim sakshi_texture_music.cpp 
+ 1062  cd eval2/
+ 1063  vim sakshi_texture_music.cpp 
+ 1064  ./compile_sakshi.sh
+ 1065  vim sakshi_texture_music.cpp 
+ 1066  ./compile_sakshi.sh
+ 1067  vim sakshi_texture_music.cpp 
+ 1068  ./compile_sakshi.sh
+ 1069  vim sakshi_texture_music.cpp 
+ 1070  ./compile_sakshi.sh
+ 1071  vim sakshi_texture_music.cpp 
+ 1072  ./compile_sakshi.sh
+ 1073  vim sakshi_texture_music.cpp 
+ 1074  ./compile_sakshi.sh
+ 1075  vim sakshi_texture_music.cpp 
+ 1076  ./compile_sakshi.sh
+ 1077  cd eval2/
+ 1078  vim texture_music.cpp 
+ 1079  ./compile.sh
+ 1080  vim texture_music.cpp 
+ 1081  ./compile
+ 1082  ./compile.sh
+ 1083  vim texture_music.cpp 
+ 1084  ./compile.sh
+ 1085  vim texture_music.cpp 
+ 1086  sudo apt-get update
+ 1087  cd eval2/
+ 1088  ./compile.sh
+ 1089  ./game
+ 1090  ./compile.sh
+ 1091  ./ga
+ 1092  ./game
+ 1093  ./compile.sh
+ 1094  ./game
+ 1095  ./compile.sh
+ 1096  ./game
+ 1097  ./compile.sh
+ 1098  ./game
+ 1099  ./compile.sh
+ 1100  ./game
+ 1101  ./compile.sh
+ 1102  ./game
+ 1103  ./compile.sh
+ 1104  ./game
+ 1105  ./compile.sh
+ 1106  ./game
+ 1107  ./compile.sh
+ 1108  ./game
+ 1109  ./compile.sh
+ 1110  ./game
+ 1111  ./compile.sh
+ 1112  ./game
+ 1113  ifconfig
+ 1114  ./compile.sh
+ 1115  ./game
+ 1116  ./compile.sh
+ 1117  ./game
+ 1118  ./compile.sh
+ 1119  ./game
+ 1120  ./compile.sh
+ 1121  ./game
+ 1122  ./compile.sh
+ 1123  ./game
+ 1124  ./compile.sh
+ 1125  ./game
+ 1126  ./compile.sh
+ 1127  ./game
+ 1128  ./compile.sh
+ 1129  ./game
+ 1130  ./compile.sh
+ 1131  ./game
+ 1132  ./compile.sh
+ 1133  ./game
+ 1134  ./compile.sh
+ 1135  ./game
+ 1136  ./compile.sh
+ 1137  ./game
+ 1138  ./compile.sh
+ 1139  ./game
+ 1140  ./compile.sh
+ 1141  ./game
+ 1142  ./compile.sh
+ 1143  ./game
+ 1144  ./compile.sh
+ 1145  ./game
+ 1146  ./compile.sh
+ 1147  ./game
+ 1148  sudo add-apt-repository ppa:maarten-baert/simplescreenrecorder
+ 1149  sudo apt-get update
+ 1150  sudo apt-get install simplescreenrecorder
+ 1151  sudo apt-get install simplescreenrecorder-lib
+ 1152  sudo apt-get install simplescreenrecorder-lib:i386
+ 1153  ./game
+ 1154  ./compile.sh
+ 1155  sudo apt-get install simplescreenrecorder-lib:i386
+ 1156  ./compile.sh
+ 1157  ./game
+ 1158  ./game_sakshi 
+ 1159  ./compile.sh
+ 1160  ./game
+ 1161  ./compile.sh
+ 1162  ./game
+ 1163  ./compile.sh
+ 1164  ./game
+ 1165  ./compile.sh
+ 1166  ./game
+ 1167  ./compile.sh
+ 1168  ./game
+ 1169  cd eval2/
+ 1170  ./compile.sh
+ 1171  ./game
+ 1172  ./compile_no_random.sh 
+ 1173  ./game_no_random 
+ 1174  cd eval2/
+ 1175  ./game_no_random 
+ 1176  ./compile.sh
+ 1177  ./game
+ 1178  cd eval2/
+ 1179  ./game_no_random 
+ 1180  cd rate-course/
+ 1181  npm app.js
+ 1182  npm install
+ 1183  mysql -u root -p
+ 1184  nodejs app.js
+ 1185  mysql -u root -p
+ 1186  cd ../Downloads/
+ 1187  mysql -u root -p < rate-course_new.sql 
+ 1188  cd ../rate-course/
+ 1189  nodejs app.js
+ 1190  mysql -u root -p
+ 1191  nodejs app.js
+ 1192  mysql -u root -p
+ 1193  ssh gsakshi@csecourses4.cse.iitk.ac.in
+ 1194  ssh gsakshi@csecourses1.cse.iitk.ac.in
+ 1195  ssh gsakshi@webhome.cc.iitk.ac.in
+ 1196  cd Downloads/
+ 1197  scp my.pdf ankitap@webhome.cc.iitk.ac.in:/www/ankitap/www/cs300A/presentation/
+ 1198  ssh ankitap@webhome.cc.iitk.ac.in
+ 1199  ssh gsakshi@csecourses4.cse.iitk.ac.in
+ 1200  cd eval2/
+ 1201  ./compile_no_random.sh 
+ 1202  ./game_no_random 
+ 1203  ./compile_no_random.sh 
+ 1204  ./game_no_random 
+ 1205  ./compile.sh
+ 1206  ./game
+ 1207  ./compile_no_random.sh 
+ 1208  ./compile.sh
+ 1209  ./compile_no_random.sh 
+ 1210  ./game_no_random 
+ 1211  sudo add-apt-repository ppa:sunab/kdenlive-release
+ 1212  sudo apt-get update
+ 1213  sudo apt-get install kdenlive
+ 1214  ./compile_no_random.sh 
+ 1215  ./game_no_random 
+ 1216  ./compile_no_random.sh 
+ 1217  ./game_no_random 
+ 1218  ./compile.sh
+ 1219  ./game
+ 1220  ./compile.sh
+ 1221  ./game
+ 1222  ./compile.sh
+ 1223  ./game
+ 1224  ./compile.sh
+ 1225  ./game
+ 1226  ./compile.sh
+ 1227  ./game
+ 1228  ./compile.sh
+ 1229  ./game
+ 1230  ./compile.sh
+ 1231  ./game
+ 1232  ./compile.sh
+ 1233  ./game
+ 1234  ./compile.sh
+ 1235  ./game
+ 1236  ./compile.sh
+ 1237  ./game
+ 1238  ./compile.sh
+ 1239  ./game
+ 1240  ./compile.sh
+ 1241  ./game
+ 1242  ./compile.sh
+ 1243  ./game
+ 1244  ./compile.sh
+ 1245  ./game
+ 1246  ./compile.sh
+ 1247  ./game
+ 1248  ./compile.sh
+ 1249  ./game
+ 1250  ./compile.sh
+ 1251  ./game
+ 1252  ./compile.sh
+ 1253  ./game
+ 1254  ./compile.sh
+ 1255  ./game
+ 1256  ./compile_no_random.sh 
+ 1257  ./game_no_random 
+ 1258  ./compile_no_random.sh 
+ 1259  ./game_no_random 
+ 1260  ./compile_no_random.sh 
+ 1261  ./game_no_random 
+ 1262  ./compile_no_random.sh 
+ 1263  ./game_no_random 
+ 1264  ssh ankitap@csecourses4.cse.iitk.ac.in
+ 1265  ssh ankitap@csecourse1.cse.iitk.ac.in
+ 1266  ssh ankitap@csecourses1.cse.iitk.ac.in
+ 1267  cd Complab/Latex/
+ 1268  pdflatex Pythagoras.tex 
+ 1269  ssh ankitap@csecourses4.cse.iitk.ac.in
+ 1270  ssh pprserver
+ 1271  ssh ankitap@pprserver
+ 1272  cd eval2/
+ 1273  ./game_nr 
+ 1274  ./game
+ 1275  cd eval_final/
+ 1276  ./game_nr 
+ 1277  cd eval_final/
+ 1278  ./game_nr 
+ 1279  cd ../Downloads/
+ 1280  ls
+ 1281  locate movies
+ 1282  cd eval_final/
+ 1283  ./game_nr 
+ 1284  cd eval_final/
+ 1285  ./game_nr 
+ 1286  sudo cp -r usr/* /usr
+ 1287  cd Downloads/flashplayer/
+ 1288  sudo cp -r usr/* /usr
+ 1289  cd /usr/lib/mozilla
+ 1290  ls
+ 1291  cd plugins
+ 1292  ls
+ 1293  cd ~/Downloads/flashplayer/
+ 1294  sudo cp libflashplayer.so /usr/lib/mozilla/plugins/
+ 1295  cd Downloads/vehicle_detection_haarcascades/
+ 1296  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i video1.avi -vsync 2 -s 160x90 -f image2 thumbnails-%02d.jpeg
+ 1297  sudo apt-get install cheese
+ 1298  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i shubhv.webm -vsync 2 -s 160x90 -f image2 thumbnails-%02d.jpeg
+ 1299  sudo apt-get install ffmpeg
+ 1300  sudo add-apt-repository 'deb http://ppa.launchpad.net/jon-severinsson/ffmpeg/ubuntu '"$(cat /etc/*-release | grep "DISTRIB_CODENAME=" | cut -d "=" -f2)"' main' && sudo apt-get update
+ 1301  sudo apt-get install ffmpeg
+ 1302  ssh ankitap@st4.cse.iitk.ac.in
+ 1303  sudo apt-get install codesudo
+ 1304  sudo apt-get purge vlc
+ 1305  sudo apt-get install vlc
+ 1306  sudo apt-get purge vlc
+ 1307  sudo apt-get install vlc
+ 1308  ping google.com
+ 1309  sudo apt-get install vlc
+ 1310  sudo apt-get update
+ 1311  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav -vsync 2 -s 160x90 -f image2 thumbnails-%02d.jpeg
+ 1312* 
+ 1313  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav -vsync 2 -s 160x90 -f image2 thumbnails-%02d.jpeg
+ 1314  cd ACADS/6th_sem/UGP/dataset/
+ 1315  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav -vsync 2 -s 160x90 -f image2 thumbnails-%02d.jpeg
+ 1316  locate opencv
+ 1317  cd ../Code/
+ 1318  bash compile.sh 
+ 1319  sudo apt-get install build-essential
+ 1320  sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
+ 1321  git clone https://github.com/Itseez/opencv.git
+ 1322  cd opencv/
+ 1323  mkdir release
+ 1324  cd release/
+ 1325  cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..
+ 1326  make
+ 1327  sudo make install
+ 1328  cd ../..
+ 1329  ls
+ 1330  bash compile.sh 
+ 1331  locate cd.h
+ 1332  locate cv.h
+ 1333  cd ~/opencv
+ 1334  cd opencv/
+ 1335  cd release/
+ 1336  cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..
+ 1337  make
+ 1338  cd ..
+ 1339  ls
+ 1340  make
+ 1341  cd release/
+ 1342  ls
+ 1343  sudo apt-get -qq install libopencv-dev build-essential checkinstall cmake pkg-config yasm libjpeg-dev libjasper-dev libavcodec-dev libavformat-dev libswscale-dev libdc1394-22-dev libxine-dev libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev libv4l-dev python-dev python-numpy libtbb-dev libqt4-dev libgtk2.0-dev libfaac-dev libmp3lame-dev libopencore-amrnb-dev libopencore-amrwb-dev libtheora-dev libvorbis-dev libxvidcore-dev x264 v4l-utils ffmpeg
+ 1344  cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D WITH_TBB=ON -D BUILD_NEW_PYTHON_SUPPORT=ON -D WITH_V4L=ON -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D BUILD_EXAMPLES=ON -D WITH_QT=ON -D WITH_OPENGL=ON ..
+ 1345  make -j2
+ 1346  cd ..
+ 1347  sudo rm -rf release/
+ 1348  ls
+ 1349  mkdir build
+ 1350  cd build
+ 1351  cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D WITH_TBB=ON -D BUILD_NEW_PYTHON_SUPPORT=ON -D WITH_V4L=ON -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D BUILD_EXAMPLES=ON -D WITH_QT=ON -D WITH_OPENGL=ON ..
+ 1352  make -j2
+ 1353  cd ..
+ 1354  cd opencv/
+ 1355  sudo rm -rf build/
+ 1356  sudo apt-get remove ffmpeg x264 libx264-dev
+ 1357  sudo apt-get update
+ 1358  sudo apt-get install build-essential checkinstall git cmake libfaac-dev libjack-jackd2-dev libmp3lame-dev libopencore-amrnb-dev libopencore-amrwb-dev libsdl1.2-dev libtheora-dev libva-dev libvdpau-dev libvorbis-dev libx11-dev libxfixes-dev libxvidcore-dev texi2html yasm zlib1g-dev
+ 1359  mkdir build
+ 1360  cd build/
+ 1361  cmake -D WITH_TBB=ON -D BUILD_NEW_PYTHON_SUPPORT=ON -D WITH_V4L=ON -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D BUILD_EXAMPLES=ON -D WITH_QT=ON -D WITH_OPENGL=ON -D WITH_VTK=ON ..
+ 1362  make
+ 1363  sudo make install
+ 1364  sudo gedit /etc/ld.so.conf.d/opencv.conf
+ 1365  grep * "imimgproc.so"
+ 1366  grep "imimgproc.so" *
+ 1367  grep -r "imimgproc.so"
+ 1368  grep -r "imgproc.so"
+ 1369  sudo apt-get update
+ 1370  sudo apt-get install vlc
+ 1371  ssh ankitap@st4.cse.iitk.ac.in
+ 1372  cd ACADS/6th_sem/UGP/Code/
+ 1373  sudo rm -rf opencv/
+ 1374  sudo apt-get install build-essential libgtk2.0-dev libjpeg-dev libtiff4-dev libjasper-dev libopenexr-dev cmake python-dev python-numpy python-tk libtbb-dev libeigen3-dev yasm libfaac-dev libopencore-amrnb-dev libopencore-amrwb-dev libtheora-dev libvorbis-dev libxvidcore-dev libx264-dev libqt4-dev libqt4-opengl-dev sphinx-common texlive-latex-extra libv4l-dev libdc1394-22-dev libavcodec-dev libavformat-dev libswscale-dev default-jdk ant libvtk5-qt4-dev
+ 1375  sudo apt-get update
+ 1376  sudo apt-get install build-essential libgtk2.0-dev libjpeg-dev libtiff4-dev libjasper-dev libopenexr-dev cmake python-dev python-numpy python-tk libtbb-dev libeigen3-dev yasm libfaac-dev libopencore-amrnb-dev libopencore-amrwb-dev libtheora-dev libvorbis-dev libxvidcore-dev libx264-dev libqt4-dev libqt4-opengl-dev sphinx-common texlive-latex-extra libv4l-dev libdc1394-22-dev libavcodec-dev libavformat-dev libswscale-dev default-jdk ant libvtk5-qt4-dev
+ 1377  cd  ACADS/6th_sem/UGP/
+ 1378  wget http://sourceforge.net/projects/opencvlibrary/files/opencv-unix/2.4.9/opencv-2.4.9.zip
+ 1379  unzip opencv-2.4.9.zip
+ 1380  cd opencv-2.4.9/
+ 1381  mkdir build
+ 1382  cd build
+ 1383  cmake -D WITH_TBB=ON -D BUILD_NEW_PYTHON_SUPPORT=ON -D WITH_V4L=ON -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D BUILD_EXAMPLES=ON -D WITH_QT=ON -D WITH_OPENGL=ON -D WITH_VTK=ON ..
+ 1384  make
+ 1385  sudo make install
+ 1386  sudo gedit /etc/ld.so.conf.d/opencv.conf
+ 1387  sudo ldconfig
+ 1388  sudo gedit /etc/bash.bashrc
+ 1389  cd ACADS/6th_sem/UGP/Code/
+ 1390  ls
+ 1391  bash compile.sh
+ 1392  subl compile.sh 
+ 1393  locate cv.h
+ 1394  bash compile.sh
+ 1395  cd ../opencv-2.4.9/
+ 1396  cd code/
+ 1397  bash compile.sh 
+ 1398  ./binary ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1399  bash compile.sh 
+ 1400  ./binary ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1401  bash compile.sh 
+ 1402  ./binary ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1403  cd dataset/
+ 1404  for picture in $(ls | grep frame*.jpg); do mv $picture $(echo $picture | sed 's/frame//g'); done;
+ 1405  ls
+ 1406  ls | grep frame*.jpg
+ 1407  ls
+ 1408  grep frame*.jpg
+ 1409  ls | grep frame*
+ 1410  grep *
+ 1411  ls | grep frame
+ 1412  for picture in $(ls | grep frame); do mv $picture $(echo $picture | sed 's/frame//g'); done;
+ 1413  ls
+ 1414  cd ..
+ 1415  bash compile.sh 
+ 1416  locate background_segm
+ 1417  bash compile.sh 
+ 1418  clear
+ 1419  bash compile.sh 
+ 1420  ./bgs -img dataset/1.jpg 
+ 1421  bash compile.sh 
+ 1422  ./bgs -img dataset/1.jpg 
+ 1423  bash compile.sh 
+ 1424  ./bgs -img dataset/1.jpg 
+ 1425  ./bgs -img dataset/200.jpg 
+ 1426  ./bgs -img dataset/480.jpg 
+ 1427  ./bgs -img dataset/407.jpg 
+ 1428  ./bgs -vid ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1429  locate background_segm.cpp
+ 1430  locate background_segm.hpp
+ 1431  ls
+ 1432  bash compile.sh
+ 1433  g++ -I/usr/local/include/opencv -I/usr/local/include/opencv2 -L/usr/local/lib/ -g -o code ourcode.cpp -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_ml -lopencv_video -lopencv_features2d -lopencv_calib3d -lopencv_objdetect -lopencv_contrib -lopencv_legacy -lopencv_stitching
+ 1434  bash compile.sh
+ 1435  ./ourcode 
+ 1436  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1437  bash compile.sh
+ 1438  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1439  bash compile.sh
+ 1440  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1441  bash compile.sh
+ 1442  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1443  bash compile.sh
+ 1444  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1445  bash compile.sh
+ 1446  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1447  bash compile.sh
+ 1448  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1449  bash compile.sh
+ 1450  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1451  bash compile.sh
+ 1452  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1453  bash compile.sh
+ 1454  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1455  bash compile.sh
+ 1456  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1457  bash compile.sh
+ 1458  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1459  bash compile.sh
+ 1460  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1461  bash compile.sh
+ 1462  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1463  bash compile.sh
+ 1464  ./ourcode ~/Desktop/12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav 
+ 1465  sudo gedit /etc/ld.so.conf.d/opencv.conf
+ 1466  sudo ldconfig
+ 1467  sudo gedit /etc/bash.bashrc
+ 1468  sudo gedit /etc/ld.so.conf.d/opencv.conf
+ 1469  sudo ldconfig
+ 1470  ping google.com
+ 1471  sudo apt-get install python-pip
+ 1472  pip install -U scikit-learn
+ 1473  sudo apt-get install python-pip
+ 1474  sudo apt-get update
+ 1475  sudo apt-get install python-pip
+ 1476  ping google.com
+ 1477  sudo apt-get install python-pip
+ 1478  sudo apt-get update
+ 1479  sudo apt-get install python-pip
+ 1480  ping google.com
+ 1481  sudo apt-get install python-pip
+ 1482  pip install -U numpy scipy scikit-learn
+ 1483  cd ACADS/
+ 1484  ls
+ 1485  cd 6th_sem/CS771/
+ 1486  python assignment1.py 
+ 1487  sudo apt-get install build-essential python-dev python-setuptools                      python-numpy python-scipy \
+ 1488  pip install --user --install-option="--prefix=" -U scikit-learn
+ 1489  python assignment1.py 
+ 1490  sudo yum -y install gcc gcc-c++ numpy python-devel scipy
+ 1491  sudo apt-get install yum
+ 1492  sudo apt-get install build-essential python-dev python-setuptools python-numpy python-scipy libatlas-dev libatlas3gf-base
+ 1493  sudo apt-get install yum
+ 1494  sudo yum -y install gcc gcc-c++ numpy python-devel scipy
+ 1495  pip install --user --install-option="--prefix=" -U scipy numpy
+ 1496  pip install --user --install-option="--prefix=" -U scipy
+ 1497  sudo update-alternatives --set libblas.so.3 /usr/lib/atlas-base/atlas/libblas.so.3
+ 1498  sudo update-alternatives --set liblapack.so.3 /usr/lib/atlas-base/atlas/liblapack.so.3
+ 1499  sudo apt-get install python-matplotlib
+ 1500  pip install --user --install-option="--prefix=" -U scikit-learn
+ 1501  cd ACADS/6th_sem/CS771/
+ 1502  python assignment1.py 
+ 1503  sudo apt-get install build-essential python-dev python-setuptools python-numpy python-scipy libatlas-dev libatlas3gf-base
+ 1504  python assignment1.py 
+ 1505  ping google.com
+ 1506  python assignment1.py 
+ 1507  python prune.py pima-indians-diabetes.csv prune
+ 1508  python assignment1.py 
+ 1509  history
+ 1510  cd Desktop/
+ 1511  ls
+ 1512  ffmpeg -ss 00:05:30 -t 00:01:00 -i 12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav out.dav
+ 1513  sudo apt-get install ffmpeg
+ 1514  ffmpeg -ss 00:05:30 -t 00:01:00 -i 12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav out.dav
+ 1515  ffmpeg -i 12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav -ss 00:05:30 -t 00:01:00 out.dav
+ 1516  ffmpeg -i 12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav -ss 00:05:30 -t 00:01:00 out.avi
+ 1517  ffmpeg -i 12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav -crf 0 -ss 00:05:30 -t 00:01:00 out.avi
+ 1518  ffmpeg -i 12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav -crf 0 -vcodec libx264 -ss 00:05:30 -t 00:01:00 out.avi
+ 1519  ffmpeg -i 12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav -crf 0 -vcodec mpeg4 -ss 00:05:30 -t 00:01:00 out2.avi
+ 1520  ffmpeg -i 12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav -crf 0 -vcodec libx264 -ss 00:05:30 -t 00:01:00 out2.dav
+ 1521  ffmpeg -i 12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav -crf 0 -vcodec libx264 -ss 00:05:30 -t 00:01:00 out2.mp4
+ 1522  ffmpeg -i 12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav -vcodec libx264 -ss 00:05:30 -t 00:01:00 out2.mp4
+ 1523  pip install ply.lex
+ 1524  sudo pip install ply
+ 1525  sudo pip install string
+ 1526  sudo pip install io
+ 1527  sudo pip install sys
+ 1528  sudo pip install re
+ 1529  cd ..
+ 1530  cd ACADS/6th_sem/CS335/
+ 1531  ls
+ 1532  cd 
+ 1533  cd Compilers/
+ 1534  ls
+ 1535  rm lexer.py 
+ 1536  ls
+ 1537  git init
+ 1538  git remote add origin git@git.cse.iitk.ac.in:ankitap/compilers.git
+ 1539  git pull origin master
+ 1540  ls
+ 1541  python lexer.py
+ 1542  python lexer.py a.txt
+ 1543  ssh ankitap@st4.cse.iitk.ac.in
+ 1544  sudo gedit /etc/apt/sources.list &
+ 1545  sudo gedit /etc/apt/sources.list
+ 1546  sudo apt-get update
+ 1547  sudo apt-get install r-base
+ 1548  ssh shubhv@st4.cse.iitk.ac.in
+ 1549  sudo apt-get install libjpeg62
+ 1550  cd ACADS/6th_sem/CS771/
+ 1551  Rscript assign1.R
+ 1552  ssh shubhv@st4.cse.iitk.ac.in
+ 1553  sudo apt-get install r-base
+ 1554  cd Downloads/
+ 1555  sudo dpkg -i rstudio-0.98.1091-i386.deb 
+ 1556  sudo dpkg -i rstudio-0.98.1091-amd64.deb 
+ 1557  sudo dpkg -i rstudio-0.98.1091-i386.deb 
+ 1558  rstudio
+ 1559  history
+ 1560  cd ../ACADS/6th_sem/CS771/
+ 1561  Rscript assign1.R 
+ 1562  Rscript assign1.R
+ 1563  Rscript assign1.R
+ 1564  cd ACADS/6th_sem/CS771/
+ 1565  rscript assign1.R 
+ 1566  Rscript assign1.R 
+ 1567  sudo dpkg -i rstudio-0.98.1091-amd64.deb 
+ 1568  Rscript assign1.R
+ 1569  sudo dpkg -i rstudio-0.98.1091-amd64.deb 
+ 1570  Rscript assign1.R
+ 1571  sudo dpkg -i rstudio-0.98.1091-amd64.deb 
+ 1572  Rscript assign1.R
+ 1573  Rscript assign1.R > out.txt
+ 1574  ssh shubhv@st4.cse.iitk.ac.in
+ 1575  cd /media/ankita/SONY_4GM/
+ 1576  sudo rm -rf djsongs/
+ 1577  sudo rm wubi.exe 
+ 1578  ls
+ 1579  cd -
+ 1580  scp /home/ankita/Downloads/EItin_PASRICHA_LKO-HYD_190115130315.pdf ankitap@csews12.cse.iitk.ac.in:~/
+ 1581  scp /home/ankita/Downloads/EItin_AGGARWAL_LKO-HYD_190115123823.pdf  ankitap@csews12.cse.iitk.ac.in:~/
+ 1582  scp /home/ankita/Downloads/EItin_KUMAR_LKO-HYD_190115124837.pdf   ankitap@csews12.cse.iitk.ac.in:~/
+ 1583  ssh pprserver
+ 1584  ssh ankitap@pprserver
+ 1585  ssh ecell@students.iitk.ac.in
+ 1586  cd
+ 1587  wget -r http://www.ecelliitk.com/sipp/students/mohalla/
+ 1588  cd ACADS/6th_sem/CS335/
+ 1589  ls
+ 1590  cd ~/Compilers/
+ 1591  git pull origin master
+ 1592  git add .
+ 1593  git commit -m "new_fraud"
+ 1594  git pull origin master
+ 1595  git rm *
+ 1596  git rm lexer_output.txt 
+ 1597  git merge lexer_output.txt~
+ 1598  git add .
+ 1599  git status
+ 1600  git merge lexer_output.txt~
+ 1601  git commit -m "redundant: to merge"
+ 1602  git merge lexer_output.txt~
+ 1603  git merge lexer_output.txt
+ 1604  git rm lexer_output.txt~ 
+ 1605  git rm lexer_output.txt
+ 1606  git pull origin master
+ 1607  rm -rf .git
+ 1608  rm *
+ 1609  git clone git@git.cse.iitk.ac.in:ankitap/compilers.git
+ 1610  ls
+ 1611  cd compilers/
+ 1612  ls
+ 1613  cd ~/qb64/
+ 1614  bash setup_lnx.sh 
+ 1615  locate libflashplayer.so
+ 1616  cd ..
+ 1617  cd Downloads/
+ 1618  mv libflashplayer.so /usr/lib/mozilla/plugins/libflashplayer.so 
+ 1619  cd ../ACADS/6th_sem/CS771/12129A2/
+ 1620  Rscript assign2.R 
+ 1621  Rscript assign2.R > output_assign2.txt
+ 1622  ssh ecell@students.iitk.ac.in
+ 1623  Rscript assign2.R > out_new.txt
+ 1624  octave
+ 1625  cd ACADS/
+ 1626  grep -r MOG
+ 1627  cd 6th_sem/UGP/
+ 1628  ls
+ 1629  cd dataset/
+ 1630  ls
+ 1631  cd ../Code/
+ 1632  g++ MOGbackgroundsubtract.cpp 
+ 1633  g++-4.8 MOGbackgroundsubtract.cpp 
+ 1634  locate opencv.hpp
+ 1635  g++-4.8 MOGbackgroundsubtract.cpp 
+ 1636  cd ../dataset/
+ 1637  mv 12.15.00-12.30.00\[R\]\[0@0\]\[0\].dav sample1.dav
+ 1638  ls
+ 1639  cd ../Code/
+ 1640  g++-4.8 MOGbackgroundsubtract.cpp 
+ 1641  g++-4.8 MOGbackgroundsubtract.cpp -lopencv_video
+ 1642  g++-4.8 -Wall -g -o bgs MOGbackgroundsubtract.cpp `pkg-config --cflags --libs opencv`
+ 1643  ./bgs 
+ 1644  grep -r  `pkg-config --cflags --libs opencv`
+ 1645  cd ~
+ 1646  grep -r  "pkg-config --cflags --libs opencv"
+ 1647  cd ACADS/6th_sem/UGP/Code/
+ 1648  bash compile.sh
+ 1649  ./bgs 
+ 1650  bash compile.sh
+ 1651  ./bgs 
+ 1652  bash compile.sh
+ 1653  ./bgs 
+ 1654  bash compile.sh
+ 1655  ./bgs 
+ 1656  bash compile.sh
+ 1657  ./bgs 
+ 1658  bash compile.sh
+ 1659  ./bgs 
+ 1660  cd ACADS/6th_sem/UGP/Code/
+ 1661  bash compile.sh
+ 1662  ./bgs
+ 1663  sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"
+ 1664  sudo apt-get update && sudo apt-get install skype
+ 1665  cd ~/Downloads/
+ 1666  sudo dpkg -r skype-ubuntu-lucid_4.3.0.37-1_i386.deb
+ 1667  sudo dpkg -i skype-ubuntu-lucid_4.3.0.37-1_i386.deb
+ 1668  sudo apt-get remove skype
+ 1669  sudo dpkg -i skype-ubuntu-lucid_4.3.0.37-1_i386.deb
+ 1670  cd ~
+ 1671  ping google.com
+ 1672  cd ACADS/6th_sem/CS771/
+ 1673  ls
+ 1674  cd 12129A1/
+ 1675  Rscript assign1.R > out_demo.txt
+ 1676  cd ../12129A2/
+ 1677  Rscript assign2.R 
+ 1678  scp /home/ankita/Application\ Donor\ Form\ 2015.pdf ankitap@csews12.cse.iitk.ac.in:.
+ 1679  ssh ankitap@csews12.cse.iitk.ac.in
+ 1680  cd ACADS/6th_sem/UGP/Code/
+ 1681  bash compile.sh
+ 1682  ./bgs
+ 1683  bash compile.sh
+ 1684  ./bgs
+ 1685  bash compile.sh
+ 1686  ./bgs
+ 1687  bash compile.sh
+ 1688  ./bgs
+ 1689  bash compile.sh
+ 1690  ./bgs
+ 1691  bash compile.sh
+ 1692  ./bgs
+ 1693  bash compile.sh
+ 1694  ./bgs
+ 1695  cd ..
+ 1696  ls
+ 1697  cd opencv-2.4.9/
+ 1698  grep -r "MOG"
+ 1699  grep -r "mog("
+ 1700  grep -r "BackgroundSubtractorMOG"
+ 1701  cd ../Code/
+ 1702  bash compile.sh
+ 1703  ./bgs 
+ 1704  bash compile.sh
+ 1705  ./bgs 
+ 1706  bash compile.sh
+ 1707  ./bgs 
+ 1708  bash compile.sh
+ 1709  ./bgs 
+ 1710  bash compile.sh
+ 1711  ./bgs 
+ 1712  bash compile.sh
+ 1713  ./bgs 
+ 1714  bash compile.sh
+ 1715  ./bgs 
+ 1716  bash compile.sh
+ 1717  ./bgs 
+ 1718  bash compile.sh
+ 1719  ./bgs 
+ 1720  bash compile.sh
+ 1721  ./bgs 
+ 1722  bash compile.sh
+ 1723  ./bgs 
+ 1724  bash compile.sh
+ 1725  ./bgs 
+ 1726  cd ACADS/6th_sem/UGP/Code/
+ 1727  bash compile.sh
+ 1728  ./bgs 
+ 1729  bash compile.sh
+ 1730  ./bgs 
+ 1731  bash compile.sh
+ 1732  ./bgs 
+ 1733  bash compile.sh
+ 1734  ./bgs 
+ 1735  bash compile.sh
+ 1736  ./bgs 
+ 1737  bash compile.sh
+ 1738  ./bgs 
+ 1739  bash compile.sh
+ 1740  ./bgs 
+ 1741  bash compile.sh
+ 1742  ./bgs 
+ 1743  bash compile.sh
+ 1744  ./bgs 
+ 1745  bash compile.sh
+ 1746  ./bgs 
+ 1747  bash compile.sh
+ 1748  ./bgs 
+ 1749  bash compile.sh
+ 1750  ./bgs 
+ 1751  bash compile.sh
+ 1752  ./bgs 
+ 1753  cd ACADS/6th_sem/UGP/Code/
+ 1754  bash compile.sh
+ 1755  ./WOI
+ 1756  bash compile.sh
+ 1757  ./WOI
+ 1758  bash compile.sh
+ 1759  ./WOI
+ 1760  bash compile.sh
+ 1761  ./WOI
+ 1762  bash compile.sh
+ 1763  ./WOI
+ 1764  bash compile.sh
+ 1765  ./WOI
+ 1766  bash compile.sh
+ 1767  ./WOI
+ 1768  bash compile.sh
+ 1769  ./WOI
+ 1770  bash compile.sh
+ 1771  ./WOI
+ 1772  bash compile.sh
+ 1773  ./WOI
+ 1774  bash compile.sh
+ 1775  ./WOI
+ 1776  bash compile.sh
+ 1777  ./WOI
+ 1778  bash compile.sh
+ 1779  ./WOI
+ 1780  bash compile.sh
+ 1781  ./WOI
+ 1782  bash compile.sh
+ 1783  ./WOI
+ 1784  bash compile.sh
+ 1785  ./WOI
+ 1786  bash compile.sh
+ 1787  ./WOI
+ 1788  bash compile.sh
+ 1789  ./WOI
+ 1790  bash compile.sh
+ 1791  ./WOI
+ 1792  bash compile.sh
+ 1793  ./WOI
+ 1794  bash compile.sh
+ 1795  ./WOI
+ 1796  bash compile.sh
+ 1797  ./WOI
+ 1798  bash compile.sh
+ 1799  ./WOI
+ 1800  bash compile.sh
+ 1801  ./WOI
+ 1802  bash compile.sh
+ 1803  ./WOI
+ 1804  bash compile.sh
+ 1805  ./WOI
+ 1806  bash compile.sh
+ 1807  ./WOI
+ 1808  bash compile.sh
+ 1809  ./WOI
+ 1810  bash compile.sh
+ 1811  ./bgs_woi
+ 1812  bash compile.sh
+ 1813  ./bgs_woi
+ 1814  bash compile.sh
+ 1815  ./bgs_woi
+ 1816  bash compile.sh
+ 1817  ./bgs_woi
+ 1818  bash compile.sh
+ 1819  ./bgs_woi
+ 1820  bash compile.sh
+ 1821  ./bgs_woi
+ 1822  bash compile.sh
+ 1823  ./bgs_woi
+ 1824  bash compile.sh
+ 1825  ./bgs_woi
+ 1826  bash compile.sh
+ 1827  ./bgs_woi
+ 1828  bash compile.sh
+ 1829  ./bgs_woi
+ 1830  bash compile.sh
+ 1831  ./bgs_woi
+ 1832  bash compile.sh
+ 1833  ./bgs_woi
+ 1834  cd Downloads/armadillo-4.600.4/
+ 1835  cmake .
+ 1836  sudo make install
+ 1837  bash compile.shddeD
+ 1838  history > history.txt
+ 1839  cd ~/ACADS/6th_sem/UGP/dataset/
+ 1840  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i sample1.dav -vsync 2 -s 160x90 -f image2 ~/Downloads/armadillo-4.600.4/data/%02d.jpeg
+ 1841  cd ..
+ 1842  ls
+ 1843  cd foreground_detection_code/
+ 1844  ls
+ 1845  cd code/
+ 1846  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1847  ./ForegroundSegmentation ../data/ 01.jpeg
+ 1848  ./ForegroundSegmentation ../data/ 01
+ 1849  ./ForegroundSegmentation ../data/ 1
+ 1850  ./ForegroundSegmentation ../data/ 1.jpeg
+ 1851  ./ForegroundSegmentation ../data/ %02d.jpeg
+ 1852  ./ForegroundSegmentation ../data/ %02d
+ 1853  ./ForegroundSegmentation ../ data
+ 1854  ./ForegroundSegmentation ../data data
+ 1855  ./ForegroundSegmentation ../data 
+ 1856  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i ../../dataset/sample1.dav -vsync 2 -s 160x90 -f image2 ~/ACADS/6th_sem/UGP/foreground_detection_code/data/test_%02d.jpeg
+ 1857  ./ForegroundSegmentation ../data 
+ 1858  ./ForegroundSegmentation ../out
+ 1859  sudo ./ForegroundSegmentation ../data/
+ 1860  ./ForegroundSegmentation ../data/
+ 1861  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1862  ./ForegroundSegmentation ../data/
+ 1863  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1864  ./ForegroundSegmentation ../data/
+ 1865  ./ForegroundSegmentation ../testfolder/
+ 1866  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1867  ./ForegroundSegmentation ../testfolder/
+ 1868  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1869  ./ForegroundSegmentation ../testfolder/
+ 1870  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1871  ./ForegroundSegmentation ../testfolder/
+ 1872  grep "load_files_from_folder"
+ 1873  grep -r "load_files_from_folder"
+ 1874  ./ForegroundSegmentation ../testfolder/
+ 1875  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1876  ./ForegroundSegmentation ../testfolder/
+ 1877  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1878  ./ForegroundSegmentation ../testfolder/
+ 1879  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1880  ./ForegroundSegmentation ../testfolder/
+ 1881  ./ForegroundSegmentation ../data/
+ 1882  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1883  ./ForegroundSegmentation ../data/
+ 1884  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i ../../dataset/sample1_cropped.mp4 -vsync 2 -f image2 ~/ACADS/6th_sem/UGP/foreground_detection_code/testfolder/test_%02d.jpeg
+ 1885  ./ForegroundSegmentation ../testfolder/
+ 1886  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i ../../dataset/sample1_cropped.mp4 -vsync 2 -f image2 ~/ACADS/6th_sem/UGP/foreground_detection_code/testfolder/test_%02d.jpeg
+ 1887  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i ../../dataset/sample1_cropped.mp4 -vsync 2 -f image2 ~/ACADS/6th_sem/UGP/foreground_detection_code/testfolder/test_%02d.jpg
+ 1888  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1889  ./ForegroundSegmentation ../testfolder/
+ 1890  cd Downloads/armadillo-4.600.4/
+ 1891  mkdir data
+ 1892  cd ~/ACADS/6th_sem/UGP/foreground_detection_code/data/
+ 1893  for picture in $(ls); do mv $picture $(echo $picture | sed 's/frame/test_/g'); done;
+ 1894  cd ../testfolder/
+ 1895  for picture in $(ls); do mv $picture $(echo $picture | sed 's/[0-9]/test_[0-9]/g'); done;
+ 1896  for picture in $(ls); do mv $picture $(echo $picture | sed 's/$picture/test_$picture/g'); done;
+ 1897  for picture in $(ls); do mv $picture $(echo $picture | sed 's/jpeg/jpg/g'); done;
+ 1898  cd ../data/
+ 1899  for picture in $(ls); do mv $picture $(echo $picture | sed 's/jpeg/jpg/g'); done;
+ 1900  cd ../../dataset/
+ 1901  ffmpeg -i sample1.dav -vcodec libx264 -ss 00:01:00 -t 00:02:30 sample1_cropped.mp4
+ 1902  cd ../foreground_detection_code/testfolder/
+ 1903  for picture in $(ls | grep frame); do mv $picture $(echo $picture | sed 's/jpeg/jpg/g'); done;
+ 1904  for picture in $(ls); do mv $picture $(echo $picture | sed 's/jpeg/jpg/g'); done;
+ 1905  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i ../../dataset/sample1_cropped.mp4 -s 1024x768 -vsync 2 -f image2 ~/ACADS/6th_sem/UGP/foreground_detection_code/testfolder/test_%02d.jpg
+ 1906  cd ACADS/6th_sem/UGP/foreground_detection_code/
+ 1907  mkdir newdata
+ 1908  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i ../../dataset/sample1_cropped.mp4 -s 1024x768 -vsync 2 -f image2 ~/ACADS/6th_sem/UGP/foreground_detection_code/newdata/test_%02d.jpg
+ 1909  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i ../dataset/sample1_cropped.mp4 -s 1024x768 -vsync 2 -f image2 ~/ACADS/6th_sem/UGP/foreground_detection_code/newdata/test_%02d.jpg
+ 1910  cd code
+ 1911  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1912  ./ForegroundSegmentation ../newdata/
+ 1913  cd ../../..
+ 1914  cd UGP
+ 1915  scp foreground_detection_code/ shubhv@st4.cse.iitk.ac.in:./st4-data2/shubhv/
+ 1916  scp foreground_detection_code/* shubhv@st4.cse.iitk.ac.in:./st4-data2/shubhv/
+ 1917  scp foreground_detection_code/* shubhv@st4.cse.iitk.ac.in:/st4-data2/shubhv/
+ 1918  scp -r foreground_detection_code/* shubhv@st4.cse.iitk.ac.in:/st4-data2/shubhv/
+ 1919  scp -r /home/ankita/Downloads/armadillo-4.600.4.tar.gz shubhv@st4.cse.iitk.ac.in:/st4-data2/shubhv/
+ 1920  cd Code/
+ 1921  bash compile.sh
+ 1922  ./bgs_woi 
+ 1923  bash compile.sh
+ 1924  ./bgs_woi 
+ 1925  bash compile.sh
+ 1926  ./bgs_woi 
+ 1927  bash compile.sh
+ 1928  ./bgs_woi 
+ 1929  bash compile.sh
+ 1930  ./bgs_woi 
+ 1931  ffmpeg -vf select="eq(pict_type\,PICT_TYPE_I)" -i ../dataset/sample1_cropped.mp4 -s 320x180 -vsync 2 -f image2 ~/ACADS/6th_sem/UGP/foreground_detection_code/newdata/test_%02d.jpg
+ 1932  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1933  cd ../foreground_detection_code/code/
+ 1934  g++ -o ForegroundSegmentation main.cpp input_preprocessor.cpp -O2 -fopenmp -I/usr/include/opencv -I/usr/local/include/opencv -L/usr/lib64 -L/usr/local/lib -larmadillo -lopencv_core -lopencv_highgui -lopencv_imgproc
+ 1935  ./ForegroundSegmentation ../newdata/
+ 1936  cd ../../Code/
+ 1937  ./bgs_woi 
+ 1938  sudo apt-get update
+ 1939  sudo apt-add-repository --remove ppa:kalakris/okular
+ 1940  sudo apt-get update
+ 1941  sudo apt-get install okular
+ 1942  scp /home/ankita/Downloads/agt.zip aditya@csews14.cse.iitk.ac.in
+ 1943  scp /home/ankita/Downloads/agt.zip aditya@csews14.cse.iitk.ac.in:.
+ 1944  ssh aditya@csews14.cse.iitk.ac.in
+ 1945  scp /home/ankita/Downloads/agt.zip ankitap@csews13.cse.iitk.ac.in:.
+ 1946  ssh ankitap@csews13.iitk.ac.in
+ 1947  ssh ankitap@csews13.cse.iitk.ac.in
+ 1948  ssh ankitap@csews13.iitk.ac.in
+ 1949  ssh ankitap@csews13.cse.iitk.ac.in
+ 1950  ssh ankitap@csews13.iitk.ac.in
+ 1951  ssh ankitap@csews13.cse.iitk.ac.in
+ 1952  cd ACADS/6th_sem/UGP/Code/
+ 1953  cmake
+ 1954  cmake ..
+ 1955  make 
+ 1956  cmake all
+ 1957  cmake src/
+ 1958  cmake .
+ 1959  make
+ 1960  cmake .
+ 1961  make
+ 1962  locate sstream.h
+ 1963  make
+ 1964  locate sstream.hpp
+ 1965  cmake .
+ 1966  make
+ 1967  cd
+ 1968  ssh abhilak@csews14.cse.iitk.ac.in
+ 1969  ssh abhilak@csews16.cse.iitk.ac.in
+ 1970  ssh ecell@students.iitk.ac.in
+ 1971  cd ACADS/6th_sem/UGP/Code/
+ 1972  cmake .
+ 1973  make
+ 1974  cmake .
+ 1975  make
+ 1976  ls
+ 1977  cd bin
+ 1978  ls
+ 1979  ./motion ~/ACADS/6th_sem/UGP/dataset/sample1_cropped.mp4 
+ 1980  ./motion ~/ACADS/6th_sem/UGP/dataset/sample2.dav 
+ 1981  ./motion ~/ACADS/6th_sem/UGP/dataset/sample3.dav 
+ 1982  ./motion ~/ACADS/6th_sem/UGP/dataset/sample2.dav 
+ 1983  cd ..
+ 1984  bash compile.sh
+ 1985  locate ml.h
+ 1986  locate cxcore.h
+ 1987  bash compile.sh
+ 1988  ./tag ../dataset/sample2.dav 
+ 1989  ./tag ../dataset/sample3.dav tag_sample3.txt
+ 1990  ssh ecell@students.iitk.ac.in
+ 1991  pip install pydot
+ 1992  sudo pip install pydot
+ 1993  sudo pip install graphviz
+ 1994  cd ACADS/6th_sem/CS335/assignments/
+ 1995  cd asgn2/
+ 1996  python parser.py test2.bas 
+ 1997  ssh ankitap@ldap.cse.iitk
+ 1998  \
+ 1999  ssh ldap.cse.iitk.ac.in
+ 2000  ssh ldap.cse.iitk.ac.in -l sganguly
+ 2001  cd ACADS/6th_sem/UGP/Code/
+ 2002  ls
+ 2003  cat compile.sh
+ 2004  vim compile.sh
+ 2005  bash compile.sh
+ 2006  ls
+ 2007  vim compile.sh
+ 2008  cmake .
+ 2009  make
+ 2010  cd bin/
+ 2011  ls
+ 2012  ./motion ../../dataset/sample2.dav 
+ 2013  ./motion ../../dataset/sample2.dav out.txt
+ 2014  ./motion ../../dataset/sample3.dav out_sample3.txt
+ 2015  cd ..
+ 2016  make
+ 2017  cd -
+ 2018  ./motion ../../dataset/sample3.dav out_sample3.txt
+ 2019  cd -
+ 2020  make
+ 2021  cd -
+ 2022  ./motion ../../dataset/sample3.dav out_sample3.txt
+ 2023  cd ..
+ 2024  make
+ 2025  cd -
+ 2026  ./motion ../../dataset/sample3.dav out_sample3.txt
+ 2027  cd -
+ 2028  make
+ 2029  cd -
+ 2030  ./motion ../../dataset/sample3.dav out_sample3.txt
+ 2031  cd -
+ 2032  make
+ 2033  cd -
+ 2034  ./motion ../../dataset/sample3.dav out_sample3.txt
+ 2035  cd ..
+ 2036  ls
+ 2037  history
+ 2038  touch a
+ 2039  history >> a
