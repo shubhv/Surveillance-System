@@ -160,6 +160,7 @@ int main (int argc, char * const argv[])
     string FILE_FORMAT = DIR_FORMAT + "/" + "%d%h%Y_%H%M%S"; // 1Jan1970/1Jan1970_12153
     string CROPPED_FILE_FORMAT = DIR_FORMAT + "/cropped/" + "%d%h%Y_%H%M%S"; // 1Jan1970/cropped/1Jan1970_121539
     for(int th = 0; th < 50; th=th+2) 
+    // int th = 15;
     {       myfile << endl << endl <<"***************    "<<"THRESHOLD:   "<<th<<"  ******************"<<endl;
             accuracy = 0;
     // Set up camera
@@ -188,7 +189,6 @@ int main (int argc, char * const argv[])
             // Detect motion in window
             int x_start = 10, x_stop = current_frame.cols-11;
             int y_start = 350, y_stop = 530;
-
             // If more than 'there_is_motion' pixels are changed, we say there is motion
             // and store an image on disk
             int there_is_motion = 5;
@@ -259,8 +259,8 @@ int main (int argc, char * const argv[])
 
     }
 
-    cout<<"maximum accuracy = "<<maxA<<"    at threshold = "<<opt_th<<endl;
-    result_file << "maximum accuracy = "<<maxA<<"    at threshold = "<<opt_th<<endl;
+    // cout<<"maximum accuracy = "<<maxA<<"    at threshold = "<<opt_th<<endl;
+    // result_file << "maximum accuracy = "<<maxA<<"    at threshold = "<<opt_th<<endl;
 
     return 0;    
 }
